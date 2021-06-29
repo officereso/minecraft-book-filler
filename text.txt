@@ -1,0 +1,417 @@
+Contents:
+Page# | Header
+1-2    | Contents
+3-7    | Legend
+8       | Mob Farms
+9-18   | Villages
+19-20 | Houses
+21      | Ocean Monums
+22      | Jungle Temple
+23      | Strongholds
+24-25 | Pillager Post
+26      | Woodland Man
+27      | Mines
+28-30  | Nether Portal§
+Page# | Header
+31-32 | Farms
+33      | Other
+34-35 | Rare Biomes
+36      | PS/Caches§
+Legend:
+‣Key •Requirements
+⁃Naming con (If any)
+White:
+ ‣ Mob Farms (MF)
+ • Public mob farms
+   that anyone can
+   use.
+Orange:
+ ‣ Villages (V)§
+Magenta:
+ ‣ Houses
+ • Only mark houses
+   built by yourself.
+   Public not required
+ ⁃ (username)
+Light Blue:
+ ‣ Ocean Monuments
+   (OM)
+Green:
+ ‣ Jungle Temples (JT)§
+Pink:
+ ‣ Strongholds
+ • Marker placed at
+   the portal.
+Gray:
+ ‣ Pillager Outpost.
+   (PO)
+Brown:
+ ‣ Woodland Mansion
+   (WM)§
+Cyan:
+ ‣ Mines (M)
+ • Established public
+   mines.
+Purple:
+ ‣ Nether Portals (NP)
+Lime Green:
+ ‣ Farms (F)
+ • Only mark farms
+   you own.
+ ⁃ (username)§
+Blue:
+ ‣ Other (O)
+ • Use a descriptive
+   name.
+Red:
+ ‣ Rare Biomes (RB)
+ ⁃ (Biome Name)
+Yellow:
+ ‣ Public
+   Supplies/cache (PS)
+ ⁃ (Map Location)
+   ["cache"]§
+Mob Farms:
+‣Map location ⁃Cords
+•Owner ◦Biome ⁍Other
+James's Spider Farm:
+ ‣ 0,0
+ ⁃ 379, 75, 652
+ • smokinu73
+ ◦ ?§
+Villages:
+‣Map Location ⁃Cords
+•Owner ◦Biome
+◘Discoverer ⁍Other
+
+0,0:
+Tumbleweed:
+ ‣ 0,0
+ ⁃ ?,?,?
+ • Gangoog
+ ◦ ?
+ ◘ ?§
+No Shalom:
+ ‣ 0,0
+ ⁃ 372, 63, 1247
+ • None
+ ◦ Plains
+ ◘ officereso
+No Shalam:
+ ‣ 0,0
+ ⁃ 1293, 68, 1236
+ • Gangoog
+ ◦ Plains
+ ◘ officereso§
+Quentonio:
+ ‣ 0,0
+ ⁃ 1812, 65, 1722
+ • None
+ ◦ Plains
+ ◘ officereso§
+0,1:
+Franktonia:
+ ‣ 0,1
+ ⁃ 313, ?, -434
+ • None
+ ◦ Desert
+ ◘ LilMo0305
+Chonkerville:
+ ‣ 0,1
+ ⁃ 792, ?, -156
+ • None
+ ◦ Savanna
+ ◘ LilMo0305§
+Shrektopia
+ ‣ 0,1
+ ⁃ 629, ?, -1210
+ • None
+ ◦ Savanna
+ ◘ LilMo0305
+Shrekville:
+ ‣ 0,1
+ ⁃ 329, ?, -1350
+ • None
+ ◦ Savanna
+ ◘ LilMo0305§
+Frankfurt:
+ ‣ 0,1
+ ⁃ 1103, ?, -1753
+ • None
+ ◦ Plains
+ ◘ LilMo0305§
+1,0:
+Jamestown:
+ ‣ 1,0
+ ⁃ 3842, 70, 675
+ • None
+ ◦ Plains
+ ◘ officereso
+Fire Ring:
+ ‣ 1,0
+ ⁃ 3099, 64, 594
+ • None
+ ◦ savanna
+ ◘ officereso§
+Ponds:
+ ‣ 1,0
+ ⁃ 2655, 69, 685
+ • Xeno342
+ ◦ Birch Forest
+ ◘ officereso
+The Lost Village:
+ ‣ 1,0
+ ⁃ 2814, 78, 1920
+ • None
+ ◦ Tiaga Hills
+ ◘ LilMo0304§
+0,-1:
+Corsair Gaming Village:
+ ‣ 0,-1
+ ⁃ 878, 64, 3227
+ • None
+ ◦ Plains
+ ◘ officereso§
+-1,0:
+Reven Creek:
+ ‣ -1,0
+ ⁃ -1487, ?, 1579
+ • None
+ ◦ Plains
+ ◘ officereso
+Floating Ice Caps:
+ ‣ -1,0
+ ⁃ -135, ?, 1844
+ • None
+ ◦ Snowy Tundra
+ ◘ officereso§
+-2,0:
+Cairo:
+ ‣ -2,0
+ ⁃ -2841, 71, 824
+ • None
+ ◦ Desert
+ ◘ Kekbord
+Smithstown:
+ ‣ -2,0
+ ⁃ -2441, 69, 187
+ • Kekbord
+ ◦ Tiaga
+ ◘ Kekbord§
+Floaterton:
+ ‣ -2,0
+ ⁃ -3791, 70, 161
+ • None
+ ◦ Plains
+ ◘ Kekbord§
+-1,1:
+Overhang Ridge:
+ ‣ -1,1
+ ⁃ -1839, 65, -1811
+ • None
+ ◦ Tiaga
+ ◘ smokinu73
+ ⁍ Good building pos
+Riverwater Clearout:
+ ‣ -1,1
+ ⁃ -977, 72, -1772
+ • None
+ ◦ Desert
+ ◘ smokinu73§
+Taco Truncade:
+ ‣ -1,1
+ ⁃ -449, 66, -813
+ • None
+ ◦ Plains
+ ◘ smokinu73
+Bathroom Sink:
+ ‣ -1,1
+ ⁃ -1186, 65, -440
+ • None
+ ◦ Savanna
+ ◘ smokinu73§
+Countertop Town:
+ ‣ -1,1
+ ⁃ -1532, 71, -707
+ • None
+ ◦ Savanna
+ ◘ smokinu73§
+Houses:
+‣Map Location ⁃Cords
+•Owner ◦Biome ⁍Other
+0,0:
+LilMo0305_Home:
+ ‣ 0,0
+ ⁃ 579, 77, 390
+ • LilMo0305
+ ◦ Mountains
+Xavier's House:
+ ‣ 0,0
+ ⁃ 527, 80, 434
+ • Xeno342
+ ◦ Mountains§
+Spawn Base:
+ ‣ 0,0
+ ⁃ -38, 64, -10
+ • ?
+ ◦ Beach
+Buboz House:
+ ‣ 0,0
+ ⁃ 521, 90, 392
+ • Buboz
+ ◦ Mountains§
+-1,0:
+Keyboard's
+Beach House:
+ ‣ -1,0
+ ⁃ ?, ?, ?
+ • Kekbord
+ ◦ Beach§
+Ocean Monuments:
+‣Map Location ⁃Cords
+•Owner ◦Biome
+◘Discoverer ⁍Other
+Hugo Monumento:
+ ‣ 0,-1
+ ⁃ -709, ?, 800
+ • Gangoog
+ ◦ ?
+ ◘ LilMo0305§
+Jungle Temples:
+‣Map Location ⁃Cords
+•Owner ◘Discoverer
+⁍Other
+
+
+None§
+Strongholds:
+‣Map Location ⁃Cords
+◘Discoverer ⁍Other
+◦Biome
+0,0|1:
+ ‣ 0,0
+ ⁃ 1518, 19, 313
+ ◦ Dark Forest
+ ◘ ?§
+Pillager Outposts:
+‣Map Location ⁃Cords
+•Owner ◦Biome
+◘Discoverer ⁍Other
+Pillager Outposts:
+The Official TMC
+Pillager Outpost:
+ ‣ 0,0
+ ⁃ ?, ?, ?
+ • Gangoog
+ ◦ ?
+ ◘ officereso§
+Meanie Weenie:
+ ‣ 0,0
+ ⁃ 1062, 0, -343
+ • None
+ ◦ Savanna
+ ◘ LilMo0305§
+Big Meanie Inc.:
+ ‣ -1,1
+ ⁃ -231, 66, -813
+ • None
+ ◦ Savanna
+ ◘ smokinu73§
+Woodland Mansions:
+‣Map Location ⁃Cords
+•Owner ◦Biome
+◘Discoverer ⁍Other
+
+
+None§
+Mines:
+‣Map Location ⁃Cords
+•Owner ⁍Other
+
+
+
+None§
+Nether Portals:
+‣Map Location ⁃Cords
+•Owner ⁍Other
+◘Nether Cords
+Ze Portal:
+ ‣ 0,0
+ ⁃ 487 80 460
+ • Gangoog
+ ⁍ Main Portal for
+   Nether hub§
+Stronghold:
+ ‣ 0,0
+ ⁃ ?,?,?
+ • None
+ ⁍ Right next to 0,0-1
+   End Portal
+-1,0|1 Cache Portal:
+ ‣ -1,0
+ ⁃ -1570, 0, 840
+ • None§
+Stronghold Portal
+Hop:
+ ‣ 0,0
+ ⁃ 1219, 74, 398
+ • Gangoog
+ ⁍ Quick stronghold
+   access.§
+Farms:
+‣Map Location ⁃Cords
+•Owner ◦Biome ⁍Other
+Wheaty World:
+ ‣ 0,0
+ ⁃ 623, 69, 420
+ • LilMo0308
+ ◦ Desert
+ ⁍ Wheat farm§
+Wonderly Woolly World:
+ ‣ 0,0
+ ⁃ 58, 72, 489
+ • officereso
+ ◦ Forest
+ ⁍ Wool farm and dye
+   storage.§
+Other:
+‣Map Location ⁃Cords
+
+
+
+None§
+Rare Biomes
+⁃Cords
+0,1:
+ Flower Forest:
+  ⁃ 269, ?, -1200
+1,0:
+ Flower Forest:
+  ⁃ 2599, 71, 257
+0,-1:
+ Ice Spikes:
+  ⁃ 122, 66, 2599
+  ⁃ 236, 71, 2994§
+-1,0:
+ Jungle:
+  ⁃ -1278, ?, 194§
+-1,1:
+ Jungle:
+  ⁃ -1042, 98, -162§
+Supplies/Caches:
+⁃Cords ◦Biome ⁍Other
+0,-1|1:
+ ⁃ 1606, 71, 2092
+ ◦ Mountains
+-1,0|1:
+ ⁃ -1570, ?, 840
+ ◦ Mountains
+ ⁍ Has Portal§
+Nether:
+⁃Cords •Owner
+◘Discoverer ⁍Other
+Aye Waye:
+ ⁃ -200, ?, 500
+ • Xeno342
+ ◘ Xeno342
+ ⁍ Nether Fortress§
